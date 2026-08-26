@@ -40,3 +40,16 @@ This repository will contain research materials, datasets, analysis, visualizati
 **Institution:** West Virginia State University
 **Course:** ECON 399 — Independent Research Study
 **Research Area:** Appalachian Region
+
+PAPER 1 
+1. What is the paper about?
+
+The paper is about how Appalachia can economically transition after the decline of the coal industry. It compares different ideas about the region’s future, especially job creation versus improving quality of life.
+
+2. What data does the paper use?
+
+The paper uses POWER Initiative grant data from 2015–2019, government documents, and 12 interviews with economic-development practitioners, nonprofit leaders, and grant recipients.
+
+3. What question and outcomes does the paper give?
+
+The main question is how different ideas about Appalachia’s future shape economic-development policies. The paper finds that Appalachia could benefit from mine-land reclamation, better infrastructure, tourism, conservation, and investments that improve quality of life, rather than focusing only on jobs and businesses. 
