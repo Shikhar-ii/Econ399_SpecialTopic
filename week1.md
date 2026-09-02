@@ -6,86 +6,244 @@
 
 The goal of this literature review is to understand how previous researchers have measured:
 
-* Regional economic resilience
-* Economic structure
-* Economic networks
+* Agricultural and food-system activity
+* Economic diversity
+* Industry and coal dependence
 * County-level economic differences
-* Geographic relationships between regions
+* Economic resilience
 * Economic shocks and recovery
 
-My research will build on these ideas by treating Appalachian counties as an interconnected economic graph and combining economic data with network analysis, entropy, and latent-regime methods.
+My research will build on these ideas by treating Appalachian counties as an interconnected economic system and combining economic data with network analysis, entropy, and latent-regime methods.
 
 ---
 
-# Paper 1 — A Framework for Measuring County Economic Resilience
+# Paper 1 — Agriculture and Local Food Economies in the Appalachian Region
 
-**Authors:** Mulugeta Kahsai, Junbo Yu, Mark Middleton, Peter V. Schaeffer, Randall Jackson
+**Authors:** Ben Kerrick, Emily Sandusky, Brian De Corte, and Erin Hostetler
 
-**Year:** 2015
+**Year:** 2022
 
-**Link:**
-https://researchrepository.wvu.edu/rri_pubs/22/
+**Organization:** Appalachian Regional Commission
+
+**Link:** Appalachian Regional Commission — Agriculture and Local Food Economies in the Appalachian Region
 
 ### 1. What data did they use?
 
-The study focuses on **West Virginia counties** and develops a county-level economic resilience index.
+The study examines agricultural activity and local food systems throughout the Appalachian Region.
 
-The researchers used **17 indicators** from four dimensions of economic resilience:
+The researchers relied heavily on data from the **Census of Agriculture** and examined agricultural activity across Appalachia.
 
-* Physical and human resources
-* Economic structure and diversity
-* Entrepreneurial activity and business dynamics
-* Scale and spatial proximity
+The study considers:
 
-The study examines West Virginia counties for **2000 and 2005**.
+* Farm activity
+* Agricultural production
+* Local food systems
+* Farm businesses
+* Direct agricultural markets
+* Agritourism
+* Agricultural opportunities
 
-The data are primarily county-level economic and demographic information.
+The research also examines differences in agricultural activity across the Appalachian Region.
 
 ### 2. What were they trying to find?
 
-The main goal was to create a measurable definition of **county economic resilience**.
+The main goal was to understand the current condition of **agriculture and local food economies in Appalachia**.
 
-They wanted to determine whether characteristics such as economic diversity, entrepreneurship, resources, and spatial factors are related to a county's ability to withstand economic shocks.
+The researchers wanted to identify how agriculture contributes to local economies and where opportunities exist to strengthen Appalachian food systems.
 
-They also examined whether their resilience index was related to:
-
-* Employment growth
-* Reduction in unemployment
+They also examined emerging opportunities that could support agricultural and local economic development.
 
 ### 3. What is missing?
 
-The study is a strong foundation, but it has several limitations for my research.
+This study provides important information about agriculture, but:
 
-* It focuses primarily on creating a **resilience index**.
-* It does not model Appalachian counties as an interconnected **economic network**.
-* It does not use information entropy to identify hidden structure.
-* It does not explicitly identify **latent economic regimes**.
-* The analysis is based on relatively limited time points.
-* It does not attempt to separate an underlying economic signal from stochastic noise.
+* It focuses mainly on **agriculture and food systems**.
+* It does not model relationships between Appalachian counties as an economic network.
+* It does not combine agriculture with other economic variables such as coal, manufacturing, employment, and demographics.
+* It does not use entropy to measure hidden economic structure.
+* It does not identify persistent economic regimes among counties.
+* It does not examine whether agricultural structure predicts overall economic resilience.
 
 ### Relevance to my research
 
-This paper is especially important because it provides a precedent for **county-level economic resilience analysis in West Virginia**.
+This paper is important because agriculture is one component of the Appalachian economic structure.
 
-My research could extend this idea from an index-based approach toward a **dynamic network-based framework**.
+My research could combine agricultural indicators with other county-level economic variables to determine whether counties with similar agricultural structures also have similar broader economic conditions.
 
 ---
 
-# Paper 2 — Strengthening Economic Resilience in Appalachia
+# Paper 2 — Agriculture and Food System Trends in the Appalachian Region: 2007–2012
 
-**Organization:** Appalachian Regional Commission (ARC)
+**Authors:** Charlie Jackson, Allison Perrett, and Katie Descieux
 
-**Year:** 2019
+**Year:** 2015
 
-**Link:**
-https://www.arc.gov/report/strengthening-economic-resilience-in-appalachia/
+**Organization:** Appalachian Sustainable Agriculture Project (ASAP)
 
-**Technical Report:**
-https://www.arc.gov/wp-content/uploads/2019/02/StrengtheningEconomicResilienceTechnicalReport-Feb2019-1.pdf
+**Link:** Appalachian Regional Commission — Agriculture and Food System Trends in the Appalachian Region: 2007–2012
 
 ### 1. What data did they use?
 
-The study analyzed **420 Appalachian counties**.
+The study uses data from the **2007 and 2012 Censuses of Agriculture** and related socioeconomic databases.
+
+The analysis covers the **420 counties in the Appalachian Region**.
+
+The researchers examined:
+
+* Number of farms
+* Farm size
+* Direct-market sales
+* Agritourism
+* Farm operators
+* Food production
+* Food retail infrastructure
+* Food access
+* Health
+* Food equity
+
+The data were organized at multiple geographic levels, including counties, states, Appalachian subregions, and metropolitan areas.
+
+### 2. What were they trying to find?
+
+The main goal was to measure and document changes in **food and farm activity in Appalachia**.
+
+The researchers wanted to understand how agricultural and food economies differed across Appalachian counties and how these activities changed between 2007 and 2012.
+
+### 3. What is missing?
+
+The study provides detailed agricultural information, but:
+
+* It focuses primarily on the **food and farm economy**.
+* It does not combine agricultural data with the complete economic structure of counties.
+* It does not construct a county-to-county similarity network.
+* It does not use entropy to measure economic complexity or uncertainty.
+* It does not identify hidden economic groups or regimes.
+* It does not directly connect agricultural structure to long-term economic resilience.
+
+### Relevance to my research
+
+This paper provides useful county-level agricultural variables that could become part of my Appalachian economic dataset.
+
+My research could use these variables together with employment, industry, income, population, and other indicators to identify hidden patterns among Appalachian counties.
+
+---
+
+# Paper 3 — Economic Diversity in Appalachia
+
+**Authors:** Edward Feser, Troy Mix, Mark White, Ken Poole, Deb Markley, and Erik Pages
+
+**Year:** 2014
+
+**Organization:** Appalachian Regional Commission
+
+**Link:** Appalachian Regional Commission — Economic Diversity in Appalachia
+
+### 1. What data did they use?
+
+The study examines **economic diversity trends across Appalachian counties and subregions**.
+
+The researchers developed four measures of economic diversity:
+
+* Industrial diversity
+* Functional diversity
+* Occupational diversity
+* Knowledge diversity
+
+The study also includes case studies of Appalachian counties and examines differences in economic development strategies.
+
+### 2. What were they trying to find?
+
+The main goal was to understand **how economically diverse Appalachian counties are**.
+
+The researchers wanted to determine why some communities have more diverse economies than others and how economic diversity can support economic development.
+
+They also compared Appalachian communities with broader economic benchmarks.
+
+### 3. What is missing?
+
+This study provides a strong foundation for understanding economic structure, but:
+
+* It primarily measures **economic diversity** rather than hidden economic regimes.
+* It does not create a county similarity network using multiple economic variables.
+* It does not use entropy as the primary framework for identifying economic structure.
+* It does not explicitly model temporal persistence of economic regimes.
+* It does not combine economic diversity with agriculture, coal, demographics, and other Appalachian characteristics.
+* It does not directly use hidden structure to predict future economic resilience.
+
+### Relevance to my research
+
+This paper is especially important because **economic diversity is likely to be an important variable in identifying different Appalachian economic regimes**.
+
+My research could extend economic diversity analysis by examining whether counties with similar economic structures form persistent groups within an economic network.
+
+---
+
+# Paper 4 — An Overview of Coal and the Economy in Appalachia
+
+**Authors:** Eric Bowen, Christiadi, John Deskins, and Brian Lego
+
+**Year:** 2021
+
+**Organization:** Appalachian Regional Commission / West Virginia University
+
+**Link:** Appalachian Regional Commission — An Overview of Coal and the Economy in Appalachia
+
+### 1. What data did they use?
+
+The study examines major trends in **coal employment and production in Appalachia over approximately two decades**.
+
+The researchers analyzed:
+
+* Coal production
+* Coal employment
+* Labor force
+* Population
+* Income
+* Education
+* Health
+* Mining counties
+* Non-mining counties
+
+The study also examines where coal production and employment losses were concentrated within Appalachia.
+
+### 2. What were they trying to find?
+
+The main goal was to understand how changes in the **coal industry affected Appalachian economies**.
+
+The researchers examined where coal employment and production declined and investigated differences between mining and non-mining counties.
+
+The study also considered socioeconomic conditions associated with coal dependence.
+
+### 3. What is missing?
+
+The study provides important information about coal-dependent Appalachian economies, but:
+
+* It focuses heavily on the **coal industry**.
+* It does not represent Appalachian counties as a complete economic network.
+* It does not combine coal with agriculture, economic diversity, demographics, and other variables into one structural model.
+* It does not use entropy to measure hidden economic structure.
+* It does not identify latent economic regimes.
+* It does not examine whether counties with similar economic structures respond similarly to future shocks.
+
+### Relevance to my research
+
+Coal is an important example of an industry that can strongly influence the economic structure of Appalachian counties.
+
+My research could use coal dependence as one variable within a larger county-level economic network and investigate whether coal-dependent counties form a persistent economic regime.
+
+---
+
+# Paper 5 — Strengthening Economic Resilience in Appalachia
+
+**Organization:** Appalachian Regional Commission
+
+**Year:** 2019
+
+**Link:** Appalachian Regional Commission — Strengthening Economic Resilience in Appalachia
+
+### 1. What data did they use?
+
+The study analyzed **420 Appalachian counties** and used a large set of socioeconomic variables.
 
 The technical report used **35 variables** covering:
 
@@ -108,7 +266,7 @@ The technical report used **35 variables** covering:
 * Coal employment
 * Manufacturing employment
 
-### Community and health
+### Community characteristics
 
 * Education facilities
 * Broadband
@@ -117,222 +275,62 @@ The technical report used **35 variables** covering:
 * Direct farm sales
 * Social capital
 
-The researchers also used spatial econometric methods to examine relationships across county boundaries.
+The researchers also used spatial methods to examine relationships across county boundaries.
 
 ### 2. What were they trying to find?
 
-The major objective was to identify factors associated with **economic resilience across Appalachia**.
+The main objective was to identify factors associated with **economic resilience across Appalachia**.
 
-The researchers wanted to understand why some communities recover more successfully from economic shocks than others.
+The researchers wanted to understand why some Appalachian communities recover more successfully from economic shocks than others.
 
-They created a resilience score for each Appalachian county and investigated which characteristics were associated with stronger resilience.
+They developed a resilience measure for Appalachian counties and examined characteristics associated with stronger resilience.
 
 ### 3. What is missing?
 
-This paper is extremely important to my research, but it leaves several opportunities.
+This study is highly relevant to my research, but several opportunities remain:
 
 * It primarily creates a **resilience score** rather than identifying hidden economic regimes.
-* The 35 variables are analyzed statistically, but the economy is not represented as a complete **county-to-county similarity network**.
+* The variables are analyzed statistically but are not represented as a complete **county-to-county economic similarity network**.
 * Entropy is not the central analytical framework.
-* The study does not explicitly separate signal from stochastic noise.
-* It does not investigate whether counties naturally form persistent economic regimes.
-* It does not ask whether the hidden structure can predict future resilience.
+* It does not explicitly separate underlying economic signal from stochastic noise.
+* It does not investigate whether Appalachian counties naturally form persistent economic regimes.
+* It does not combine agriculture, coal, economic diversity, demographics, and other variables into a hidden structural model.
 
 ### Relevance to my research
 
-This may become one of the most important comparison studies.
+This is one of the most important comparison studies because it already provides a broad set of **Appalachian county-level economic variables**.
 
-My research could potentially ask:
+My research could extend this approach by asking:
 
-> Does a graph/entropy/latent-regime framework reveal economic structures that are not captured by conventional resilience scores?
-
----
-
-# Paper 3 — Unveiling the Relationship Between Regional Economic Resilience and Input-Output Network Topology
-
-**Year:** 2024
-
-**Journal:** Regional Science Policy & Practice
-
-**DOI:**
-https://doi.org/10.1016/j.rspp.2024.100018
-
-### 1. What data did they use?
-
-The study constructed **weighted and directed input-output networks** for regional economies in the European Union.
-
-The geographical units were **NUTS-2 regions**.
-
-The network represents relationships between economic sectors and regions.
-
-The researchers calculated network characteristics including:
-
-* Connectivity
-* Centrality
-* Clustering
-* Network topology
-
-They also used spatial regression methods.
-
-### 2. What were they trying to find?
-
-The paper investigates how the structure of regional economic networks affects **economic resilience**.
-
-In particular, it asks how economic shocks propagate through interconnected sectors and regions.
-
-The researchers found relationships between network structure and resilience to external shocks.
-
-### 3. What is missing?
-
-This paper is very close to the network component of my proposed research.
-
-However:
-
-* It focuses on **EU regions**, not Appalachia.
-* It uses input-output networks rather than constructing a county network from multiple economic indicators.
-* Entropy is not the primary measure of hidden economic uncertainty.
-* It does not focus on latent economic regimes.
-* It does not specifically combine graph similarity with temporal regime persistence.
-
-### Relevance to my research
-
-This paper provides methodological support for the idea that:
-
-> **Economic regions should not necessarily be treated as independent observations because economic activity is interconnected.**
-
-This supports my plan to model Appalachian counties as nodes in an economic graph.
-
----
-
-# Paper 4 — Using Entropy Measures to Disentangle Regional from National Localization Patterns
-
-**Author:** Eleonora Cutrini
-
-**Year:** 2009
-
-**Journal:** Regional Science and Urban Economics
-
-**DOI:**
-https://doi.org/10.1016/j.regsciurbeco.2008.08.005
-
-### 1. What data did they use?
-
-The empirical example uses European manufacturing data from the **Eurostat Structural Business Statistics database**.
-
-The analysis examines:
-
-* Regional economic specialization
-* Industrial concentration
-* Geographic localization
-* Manufacturing sectors
-
-The paper analyzes European regions and countries and uses entropy-based measures.
-
-### 2. What were they trying to find?
-
-The main objective was to develop an entropy framework that can distinguish between:
-
-* Regional specialization
-* Geographic concentration
-* National-level localization
-
-The paper treats specialization and concentration as related manifestations of economic localization.
-
-The key methodological contribution is the use of **entropy indices** to separate different spatial components of economic structure.
-
-### 3. What is missing?
-
-This paper provides the theoretical foundation for my entropy component, but it does not address:
-
-* Appalachian counties
-* Economic resilience
-* Economic shocks
-* Latent economic regimes
-* Temporal regime persistence
-* Predictive modeling of resilience
-* Combining entropy with county-level economic graphs
-
-### Relevance to my research
-
-This paper helps answer:
-
-> **How can entropy quantify differences and uncertainty in regional economic structures?**
-
-I can potentially adapt this concept to Appalachian counties.
-
----
-
-# Paper 5 — An Account of Geographic Concentration Patterns in Europe
-
-**Authors:** Marius Brülhart and Rolf Traeger
-
-**Year:** 2005
-
-**Journal:** Regional Science and Urban Economics
-
-**DOI:**
-https://doi.org/10.1016/j.regsciurbeco.2004.09.002
-
-### 1. What data did they use?
-
-The researchers examined economic sectors across **Western European regions from 1975–2000**.
-
-They used regional sectoral/employment data and applied entropy measures.
-
-The paper examines:
-
-* Manufacturing
-* Market services
-* Aggregate employment
-* Geographic concentration
-* Regional specialization
-
-### 2. What were they trying to find?
-
-The goal was to determine how economic activities are geographically concentrated and how these patterns changed over time.
-
-They used entropy measures to distinguish different forms of geographic concentration.
-
-One major finding was that manufacturing became more concentrated relative to the distribution of employment while becoming less concentrated relative to physical space.
-
-### 3. What is missing?
-
-The paper provides a strong methodological foundation for entropy and geography, but:
-
-* It focuses on Europe rather than Appalachia.
-* It studies geographic concentration rather than hidden economic regimes.
-* It does not build an economic similarity graph between counties.
-* It does not integrate agricultural, demographic, environmental, and economic variables together.
-* It does not examine resilience as the final predictive outcome.
-* It does not explicitly separate signal from stochastic noise.
-
-### Relevance to my research
-
-This paper helps establish that **entropy can be used to measure spatial economic structure**.
-
-My research can extend this concept from geographic concentration toward **hidden structural relationships between Appalachian counties**.
+> **Can a network, entropy, and latent-regime framework identify persistent economic structures that conventional resilience scores do not capture?**
 
 ---
 
 # Week 1 — Main Findings
 
-After reviewing these five studies, several patterns appear.
+After reviewing these five Appalachian studies, several patterns appear.
 
 ## What previous research already does well
 
-Previous research has successfully developed:
+Previous Appalachian research has successfully studied:
 
-1. County-level economic resilience measures.
-2. Appalachian-wide resilience measures.
-3. Regional economic network models.
-4. Entropy-based measures of economic concentration.
-5. Spatial analysis of economic structures.
+1. Agricultural and food-system activity.
+2. Economic diversity across counties.
+3. Coal dependence and industrial change.
+4. County-level socioeconomic differences.
+5. Economic resilience and recovery from shocks.
 
 ## What appears less explored
 
 A potential research gap is the combination of:
 
-**Multiple economic variables**
+**Agriculture**
++
+**Industry and coal**
++
+**Economic diversity**
++
+**Demographics and socioeconomic variables**
 +
 **County similarity graph**
 +
@@ -346,6 +344,6 @@ A potential research gap is the combination of:
 
 This motivates the central idea of my research:
 
-> **Observed economy = latent signal + stochastic noise**
+> **Observed Appalachian economy = latent economic structure + stochastic noise**
 
-The next step is to investigate whether the apparent complexity of Appalachian economic data contains persistent hidden structures that can be identified mathematically.
+The next step is to investigate whether Appalachian counties contain **persistent hidden economic patterns** that can be identified mathematically using economic variables, network relationships, entropy, and regime-based analysis.
