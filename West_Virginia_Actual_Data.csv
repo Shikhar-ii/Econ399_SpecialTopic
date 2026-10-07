@@ -1,0 +1,551 @@
+FIPS,State,County,Year,Population,Per_Capita_Personal_Income_USD,Measure,Source
+54001,West Virginia,Barbour,2000,15557.0,,Population,Census decennial
+54001,West Virginia,Barbour,2010,16589.0,,Population,Census decennial
+54001,West Virginia,Barbour,2020,15463.0,,Population,Census PEP Vintage 2025
+54001,West Virginia,Barbour,2021,15446.0,,Population,Census PEP Vintage 2025
+54001,West Virginia,Barbour,2022,15397.0,,Population,Census PEP Vintage 2025
+54001,West Virginia,Barbour,2023,15448.0,,Population,Census PEP Vintage 2025
+54001,West Virginia,Barbour,2024,15336.0,,Population,Census PEP Vintage 2025
+54001,West Virginia,Barbour,2025,15414.0,,Population,Census PEP Vintage 2025
+54001,West Virginia,Barbour,2023,,42850.0,Per capita personal income,BEA via FRED
+54001,West Virginia,Barbour,2024,,44716.0,Per capita personal income,BEA via FRED
+54003,West Virginia,Berkeley,2000,75905.0,,Population,Census decennial
+54003,West Virginia,Berkeley,2010,104169.0,,Population,Census decennial
+54003,West Virginia,Berkeley,2020,122693.0,,Population,Census PEP Vintage 2025
+54003,West Virginia,Berkeley,2021,126208.0,,Population,Census PEP Vintage 2025
+54003,West Virginia,Berkeley,2022,129515.0,,Population,Census PEP Vintage 2025
+54003,West Virginia,Berkeley,2023,132742.0,,Population,Census PEP Vintage 2025
+54003,West Virginia,Berkeley,2024,135990.0,,Population,Census PEP Vintage 2025
+54003,West Virginia,Berkeley,2025,139522.0,,Population,Census PEP Vintage 2025
+54003,West Virginia,Berkeley,2023,,54106.0,Per capita personal income,BEA via FRED
+54003,West Virginia,Berkeley,2024,,57203.0,Per capita personal income,BEA via FRED
+54005,West Virginia,Boone,2000,25870.0,,Population,Census decennial
+54005,West Virginia,Boone,2010,25535.0,,Population,Census decennial
+54005,West Virginia,Boone,2020,21746.0,,Population,Census PEP Vintage 2025
+54005,West Virginia,Boone,2021,21365.0,,Population,Census PEP Vintage 2025
+54005,West Virginia,Boone,2022,20927.0,,Population,Census PEP Vintage 2025
+54005,West Virginia,Boone,2023,20609.0,,Population,Census PEP Vintage 2025
+54005,West Virginia,Boone,2024,20448.0,,Population,Census PEP Vintage 2025
+54005,West Virginia,Boone,2025,20251.0,,Population,Census PEP Vintage 2025
+54005,West Virginia,Boone,2023,,44861.0,Per capita personal income,BEA via FRED
+54005,West Virginia,Boone,2024,,46550.0,Per capita personal income,BEA via FRED
+54007,West Virginia,Braxton,2000,12998.0,,Population,Census decennial
+54007,West Virginia,Braxton,2010,14702.0,,Population,Census decennial
+54007,West Virginia,Braxton,2020,12400.0,,Population,Census PEP Vintage 2025
+54007,West Virginia,Braxton,2021,12303.0,,Population,Census PEP Vintage 2025
+54007,West Virginia,Braxton,2022,12163.0,,Population,Census PEP Vintage 2025
+54007,West Virginia,Braxton,2023,12144.0,,Population,Census PEP Vintage 2025
+54007,West Virginia,Braxton,2024,12054.0,,Population,Census PEP Vintage 2025
+54007,West Virginia,Braxton,2025,11885.0,,Population,Census PEP Vintage 2025
+54007,West Virginia,Braxton,2023,,42883.0,Per capita personal income,BEA via FRED
+54007,West Virginia,Braxton,2024,,44745.0,Per capita personal income,BEA via FRED
+54009,West Virginia,Brooke,2000,25447.0,,Population,Census decennial
+54009,West Virginia,Brooke,2010,24069.0,,Population,Census decennial
+54009,West Virginia,Brooke,2020,22481.0,,Population,Census PEP Vintage 2025
+54009,West Virginia,Brooke,2021,22079.0,,Population,Census PEP Vintage 2025
+54009,West Virginia,Brooke,2022,21731.0,,Population,Census PEP Vintage 2025
+54009,West Virginia,Brooke,2023,21423.0,,Population,Census PEP Vintage 2025
+54009,West Virginia,Brooke,2024,21294.0,,Population,Census PEP Vintage 2025
+54009,West Virginia,Brooke,2025,21142.0,,Population,Census PEP Vintage 2025
+54009,West Virginia,Brooke,2023,,52499.0,Per capita personal income,BEA via FRED
+54009,West Virginia,Brooke,2024,,55439.0,Per capita personal income,BEA via FRED
+54011,West Virginia,Cabell,2000,96784.0,,Population,Census decennial
+54011,West Virginia,Cabell,2010,96319.0,,Population,Census decennial
+54011,West Virginia,Cabell,2020,94245.0,,Population,Census PEP Vintage 2025
+54011,West Virginia,Cabell,2021,93439.0,,Population,Census PEP Vintage 2025
+54011,West Virginia,Cabell,2022,92492.0,,Population,Census PEP Vintage 2025
+54011,West Virginia,Cabell,2023,92017.0,,Population,Census PEP Vintage 2025
+54011,West Virginia,Cabell,2024,91455.0,,Population,Census PEP Vintage 2025
+54011,West Virginia,Cabell,2025,91183.0,,Population,Census PEP Vintage 2025
+54011,West Virginia,Cabell,2023,,54316.0,Per capita personal income,BEA via FRED
+54011,West Virginia,Cabell,2024,,56843.0,Per capita personal income,BEA via FRED
+54013,West Virginia,Calhoun,2000,7582.0,,Population,Census decennial
+54013,West Virginia,Calhoun,2010,7627.0,,Population,Census decennial
+54013,West Virginia,Calhoun,2020,6203.0,,Population,Census PEP Vintage 2025
+54013,West Virginia,Calhoun,2021,6180.0,,Population,Census PEP Vintage 2025
+54013,West Virginia,Calhoun,2022,6061.0,,Population,Census PEP Vintage 2025
+54013,West Virginia,Calhoun,2023,5975.0,,Population,Census PEP Vintage 2025
+54013,West Virginia,Calhoun,2024,5931.0,,Population,Census PEP Vintage 2025
+54013,West Virginia,Calhoun,2025,5978.0,,Population,Census PEP Vintage 2025
+54013,West Virginia,Calhoun,2023,,44877.0,Per capita personal income,BEA via FRED
+54013,West Virginia,Calhoun,2024,,46017.0,Per capita personal income,BEA via FRED
+54015,West Virginia,Clay,2000,10330.0,,Population,Census decennial
+54015,West Virginia,Clay,2010,9386.0,,Population,Census decennial
+54015,West Virginia,Clay,2020,8009.0,,Population,Census PEP Vintage 2025
+54015,West Virginia,Clay,2021,7914.0,,Population,Census PEP Vintage 2025
+54015,West Virginia,Clay,2022,7817.0,,Population,Census PEP Vintage 2025
+54015,West Virginia,Clay,2023,7758.0,,Population,Census PEP Vintage 2025
+54015,West Virginia,Clay,2024,7693.0,,Population,Census PEP Vintage 2025
+54015,West Virginia,Clay,2025,7538.0,,Population,Census PEP Vintage 2025
+54015,West Virginia,Clay,2023,,41629.0,Per capita personal income,BEA via FRED
+54015,West Virginia,Clay,2024,,44287.0,Per capita personal income,BEA via FRED
+54017,West Virginia,Doddridge,2000,6994.0,,Population,Census decennial
+54017,West Virginia,Doddridge,2010,7403.0,,Population,Census decennial
+54017,West Virginia,Doddridge,2020,7785.0,,Population,Census PEP Vintage 2025
+54017,West Virginia,Doddridge,2021,7741.0,,Population,Census PEP Vintage 2025
+54017,West Virginia,Doddridge,2022,7720.0,,Population,Census PEP Vintage 2025
+54017,West Virginia,Doddridge,2023,7694.0,,Population,Census PEP Vintage 2025
+54017,West Virginia,Doddridge,2024,7642.0,,Population,Census PEP Vintage 2025
+54017,West Virginia,Doddridge,2025,7634.0,,Population,Census PEP Vintage 2025
+54017,West Virginia,Doddridge,2023,,40668.0,Per capita personal income,BEA via FRED
+54017,West Virginia,Doddridge,2024,,41982.0,Per capita personal income,BEA via FRED
+54019,West Virginia,Fayette,2000,47579.0,,Population,Census decennial
+54019,West Virginia,Fayette,2010,46039.0,,Population,Census decennial
+54019,West Virginia,Fayette,2020,40442.0,,Population,Census PEP Vintage 2025
+54019,West Virginia,Fayette,2021,40064.0,,Population,Census PEP Vintage 2025
+54019,West Virginia,Fayette,2022,39408.0,,Population,Census PEP Vintage 2025
+54019,West Virginia,Fayette,2023,39060.0,,Population,Census PEP Vintage 2025
+54019,West Virginia,Fayette,2024,38554.0,,Population,Census PEP Vintage 2025
+54019,West Virginia,Fayette,2025,38165.0,,Population,Census PEP Vintage 2025
+54019,West Virginia,Fayette,2023,,48253.0,Per capita personal income,BEA via FRED
+54019,West Virginia,Fayette,2024,,50745.0,Per capita personal income,BEA via FRED
+54021,West Virginia,Gilmer,2000,7669.0,,Population,Census decennial
+54021,West Virginia,Gilmer,2010,7160.0,,Population,Census decennial
+54021,West Virginia,Gilmer,2020,7393.0,,Population,Census PEP Vintage 2025
+54021,West Virginia,Gilmer,2021,7391.0,,Population,Census PEP Vintage 2025
+54021,West Virginia,Gilmer,2022,7304.0,,Population,Census PEP Vintage 2025
+54021,West Virginia,Gilmer,2023,7222.0,,Population,Census PEP Vintage 2025
+54021,West Virginia,Gilmer,2024,7117.0,,Population,Census PEP Vintage 2025
+54021,West Virginia,Gilmer,2025,7085.0,,Population,Census PEP Vintage 2025
+54021,West Virginia,Gilmer,2023,,38394.0,Per capita personal income,BEA via FRED
+54021,West Virginia,Gilmer,2024,,41468.0,Per capita personal income,BEA via FRED
+54023,West Virginia,Grant,2000,11299.0,,Population,Census decennial
+54023,West Virginia,Grant,2010,11937.0,,Population,Census decennial
+54023,West Virginia,Grant,2020,10993.0,,Population,Census PEP Vintage 2025
+54023,West Virginia,Grant,2021,10999.0,,Population,Census PEP Vintage 2025
+54023,West Virginia,Grant,2022,10963.0,,Population,Census PEP Vintage 2025
+54023,West Virginia,Grant,2023,10986.0,,Population,Census PEP Vintage 2025
+54023,West Virginia,Grant,2024,10962.0,,Population,Census PEP Vintage 2025
+54023,West Virginia,Grant,2025,11041.0,,Population,Census PEP Vintage 2025
+54023,West Virginia,Grant,2023,,48290.0,Per capita personal income,BEA via FRED
+54023,West Virginia,Grant,2024,,49816.0,Per capita personal income,BEA via FRED
+54025,West Virginia,Greenbrier,2000,34453.0,,Population,Census decennial
+54025,West Virginia,Greenbrier,2010,35480.0,,Population,Census decennial
+54025,West Virginia,Greenbrier,2020,32906.0,,Population,Census PEP Vintage 2025
+54025,West Virginia,Greenbrier,2021,32716.0,,Population,Census PEP Vintage 2025
+54025,West Virginia,Greenbrier,2022,32356.0,,Population,Census PEP Vintage 2025
+54025,West Virginia,Greenbrier,2023,32154.0,,Population,Census PEP Vintage 2025
+54025,West Virginia,Greenbrier,2024,31832.0,,Population,Census PEP Vintage 2025
+54025,West Virginia,Greenbrier,2025,31578.0,,Population,Census PEP Vintage 2025
+54025,West Virginia,Greenbrier,2023,,50468.0,Per capita personal income,BEA via FRED
+54025,West Virginia,Greenbrier,2024,,51940.0,Per capita personal income,BEA via FRED
+54027,West Virginia,Hampshire,2000,20203.0,,Population,Census decennial
+54027,West Virginia,Hampshire,2010,23964.0,,Population,Census decennial
+54027,West Virginia,Hampshire,2020,23086.0,,Population,Census PEP Vintage 2025
+54027,West Virginia,Hampshire,2021,23353.0,,Population,Census PEP Vintage 2025
+54027,West Virginia,Hampshire,2022,23465.0,,Population,Census PEP Vintage 2025
+54027,West Virginia,Hampshire,2023,23600.0,,Population,Census PEP Vintage 2025
+54027,West Virginia,Hampshire,2024,23768.0,,Population,Census PEP Vintage 2025
+54027,West Virginia,Hampshire,2025,24105.0,,Population,Census PEP Vintage 2025
+54027,West Virginia,Hampshire,2023,,46580.0,Per capita personal income,BEA via FRED
+54027,West Virginia,Hampshire,2024,,48814.0,Per capita personal income,BEA via FRED
+54029,West Virginia,Hancock,2000,35233.0,,Population,Census decennial
+54029,West Virginia,Hancock,2010,32667.0,,Population,Census decennial
+54029,West Virginia,Hancock,2020,29040.0,,Population,Census PEP Vintage 2025
+54029,West Virginia,Hancock,2021,28609.0,,Population,Census PEP Vintage 2025
+54029,West Virginia,Hancock,2022,28260.0,,Population,Census PEP Vintage 2025
+54029,West Virginia,Hancock,2023,28165.0,,Population,Census PEP Vintage 2025
+54029,West Virginia,Hancock,2024,27977.0,,Population,Census PEP Vintage 2025
+54029,West Virginia,Hancock,2025,27729.0,,Population,Census PEP Vintage 2025
+54029,West Virginia,Hancock,2023,,53765.0,Per capita personal income,BEA via FRED
+54029,West Virginia,Hancock,2024,,56263.0,Per capita personal income,BEA via FRED
+54031,West Virginia,Hardy,2000,12669.0,,Population,Census decennial
+54031,West Virginia,Hardy,2010,14025.0,,Population,Census decennial
+54031,West Virginia,Hardy,2020,14241.0,,Population,Census PEP Vintage 2025
+54031,West Virginia,Hardy,2021,14147.0,,Population,Census PEP Vintage 2025
+54031,West Virginia,Hardy,2022,14232.0,,Population,Census PEP Vintage 2025
+54031,West Virginia,Hardy,2023,14344.0,,Population,Census PEP Vintage 2025
+54031,West Virginia,Hardy,2024,14435.0,,Population,Census PEP Vintage 2025
+54031,West Virginia,Hardy,2025,14337.0,,Population,Census PEP Vintage 2025
+54031,West Virginia,Hardy,2023,,43495.0,Per capita personal income,BEA via FRED
+54031,West Virginia,Hardy,2024,,47234.0,Per capita personal income,BEA via FRED
+54033,West Virginia,Harrison,2000,68652.0,,Population,Census decennial
+54033,West Virginia,Harrison,2010,69099.0,,Population,Census decennial
+54033,West Virginia,Harrison,2020,65846.0,,Population,Census PEP Vintage 2025
+54033,West Virginia,Harrison,2021,65439.0,,Population,Census PEP Vintage 2025
+54033,West Virginia,Harrison,2022,64706.0,,Population,Census PEP Vintage 2025
+54033,West Virginia,Harrison,2023,64550.0,,Population,Census PEP Vintage 2025
+54033,West Virginia,Harrison,2024,64426.0,,Population,Census PEP Vintage 2025
+54033,West Virginia,Harrison,2025,64221.0,,Population,Census PEP Vintage 2025
+54033,West Virginia,Harrison,2023,,63510.0,Per capita personal income,BEA via FRED
+54033,West Virginia,Harrison,2024,,65896.0,Per capita personal income,BEA via FRED
+54035,West Virginia,Jackson,2000,25938.0,,Population,Census decennial
+54035,West Virginia,Jackson,2010,28000.0,,Population,Census decennial
+54035,West Virginia,Jackson,2020,27723.0,,Population,Census PEP Vintage 2025
+54035,West Virginia,Jackson,2021,27791.0,,Population,Census PEP Vintage 2025
+54035,West Virginia,Jackson,2022,27614.0,,Population,Census PEP Vintage 2025
+54035,West Virginia,Jackson,2023,27605.0,,Population,Census PEP Vintage 2025
+54035,West Virginia,Jackson,2024,27496.0,,Population,Census PEP Vintage 2025
+54035,West Virginia,Jackson,2025,27450.0,,Population,Census PEP Vintage 2025
+54035,West Virginia,Jackson,2023,,48915.0,Per capita personal income,BEA via FRED
+54035,West Virginia,Jackson,2024,,50906.0,Per capita personal income,BEA via FRED
+54037,West Virginia,Jefferson,2000,42190.0,,Population,Census decennial
+54037,West Virginia,Jefferson,2010,53498.0,,Population,Census decennial
+54037,West Virginia,Jefferson,2020,57790.0,,Population,Census PEP Vintage 2025
+54037,West Virginia,Jefferson,2021,58556.0,,Population,Census PEP Vintage 2025
+54037,West Virginia,Jefferson,2022,58935.0,,Population,Census PEP Vintage 2025
+54037,West Virginia,Jefferson,2023,59730.0,,Population,Census PEP Vintage 2025
+54037,West Virginia,Jefferson,2024,61289.0,,Population,Census PEP Vintage 2025
+54037,West Virginia,Jefferson,2025,63102.0,,Population,Census PEP Vintage 2025
+54037,West Virginia,Jefferson,2023,,66662.0,Per capita personal income,BEA via FRED
+54037,West Virginia,Jefferson,2024,,70542.0,Per capita personal income,BEA via FRED
+54039,West Virginia,Kanawha,2000,200073.0,,Population,Census decennial
+54039,West Virginia,Kanawha,2010,193063.0,,Population,Census decennial
+54039,West Virginia,Kanawha,2020,180215.0,,Population,Census PEP Vintage 2025
+54039,West Virginia,Kanawha,2021,178124.0,,Population,Census PEP Vintage 2025
+54039,West Virginia,Kanawha,2022,175864.0,,Population,Census PEP Vintage 2025
+54039,West Virginia,Kanawha,2023,174434.0,,Population,Census PEP Vintage 2025
+54039,West Virginia,Kanawha,2024,173423.0,,Population,Census PEP Vintage 2025
+54039,West Virginia,Kanawha,2025,172381.0,,Population,Census PEP Vintage 2025
+54039,West Virginia,Kanawha,2023,,60979.0,Per capita personal income,BEA via FRED
+54039,West Virginia,Kanawha,2024,,63654.0,Per capita personal income,BEA via FRED
+54041,West Virginia,Lewis,2000,17223.0,,Population,Census decennial
+54041,West Virginia,Lewis,2010,16919.0,,Population,Census decennial
+54041,West Virginia,Lewis,2020,17021.0,,Population,Census PEP Vintage 2025
+54041,West Virginia,Lewis,2021,16880.0,,Population,Census PEP Vintage 2025
+54041,West Virginia,Lewis,2022,16720.0,,Population,Census PEP Vintage 2025
+54041,West Virginia,Lewis,2023,16607.0,,Population,Census PEP Vintage 2025
+54041,West Virginia,Lewis,2024,16478.0,,Population,Census PEP Vintage 2025
+54041,West Virginia,Lewis,2025,16394.0,,Population,Census PEP Vintage 2025
+54041,West Virginia,Lewis,2023,,46133.0,Per capita personal income,BEA via FRED
+54041,West Virginia,Lewis,2024,,48756.0,Per capita personal income,BEA via FRED
+54043,West Virginia,Lincoln,2000,22108.0,,Population,Census decennial
+54043,West Virginia,Lincoln,2010,21720.0,,Population,Census decennial
+54043,West Virginia,Lincoln,2020,20369.0,,Population,Census PEP Vintage 2025
+54043,West Virginia,Lincoln,2021,20201.0,,Population,Census PEP Vintage 2025
+54043,West Virginia,Lincoln,2022,19861.0,,Population,Census PEP Vintage 2025
+54043,West Virginia,Lincoln,2023,19685.0,,Population,Census PEP Vintage 2025
+54043,West Virginia,Lincoln,2024,19369.0,,Population,Census PEP Vintage 2025
+54043,West Virginia,Lincoln,2025,19177.0,,Population,Census PEP Vintage 2025
+54043,West Virginia,Lincoln,2023,,39467.0,Per capita personal income,BEA via FRED
+54043,West Virginia,Lincoln,2024,,40995.0,Per capita personal income,BEA via FRED
+54045,West Virginia,Logan,2000,37710.0,,Population,Census decennial
+54045,West Virginia,Logan,2010,36743.0,,Population,Census decennial
+54045,West Virginia,Logan,2020,32514.0,,Population,Census PEP Vintage 2025
+54045,West Virginia,Logan,2021,31856.0,,Population,Census PEP Vintage 2025
+54045,West Virginia,Logan,2022,31250.0,,Population,Census PEP Vintage 2025
+54045,West Virginia,Logan,2023,30942.0,,Population,Census PEP Vintage 2025
+54045,West Virginia,Logan,2024,30615.0,,Population,Census PEP Vintage 2025
+54045,West Virginia,Logan,2025,30375.0,,Population,Census PEP Vintage 2025
+54045,West Virginia,Logan,2023,,47522.0,Per capita personal income,BEA via FRED
+54045,West Virginia,Logan,2024,,49013.0,Per capita personal income,BEA via FRED
+54047,West Virginia,McDowell,2000,35233.0,,Population,Census decennial
+54047,West Virginia,McDowell,2010,27329.0,,Population,Census decennial
+54047,West Virginia,McDowell,2020,18942.0,,Population,Census PEP Vintage 2025
+54047,West Virginia,McDowell,2021,18421.0,,Population,Census PEP Vintage 2025
+54047,West Virginia,McDowell,2022,17795.0,,Population,Census PEP Vintage 2025
+54047,West Virginia,McDowell,2023,17446.0,,Population,Census PEP Vintage 2025
+54047,West Virginia,McDowell,2024,17186.0,,Population,Census PEP Vintage 2025
+54047,West Virginia,McDowell,2025,16878.0,,Population,Census PEP Vintage 2025
+54047,West Virginia,McDowell,2023,,36880.0,Per capita personal income,BEA via FRED
+54047,West Virginia,McDowell,2024,,38563.0,Per capita personal income,BEA via FRED
+54049,West Virginia,Marion,2000,,,Population,Census decennial
+54049,West Virginia,Marion,2010,,,Population,Census decennial
+54049,West Virginia,Marion,2020,56240.0,,Population,Census PEP Vintage 2025
+54049,West Virginia,Marion,2021,56068.0,,Population,Census PEP Vintage 2025
+54049,West Virginia,Marion,2022,55806.0,,Population,Census PEP Vintage 2025
+54049,West Virginia,Marion,2023,55826.0,,Population,Census PEP Vintage 2025
+54049,West Virginia,Marion,2024,55685.0,,Population,Census PEP Vintage 2025
+54049,West Virginia,Marion,2025,55584.0,,Population,Census PEP Vintage 2025
+54049,West Virginia,Marion,2023,,51853.0,Per capita personal income,BEA via FRED
+54049,West Virginia,Marion,2024,,53855.0,Per capita personal income,BEA via FRED
+54051,West Virginia,Marshall,2000,,,Population,Census decennial
+54051,West Virginia,Marshall,2010,,,Population,Census decennial
+54051,West Virginia,Marshall,2020,30498.0,,Population,Census PEP Vintage 2025
+54051,West Virginia,Marshall,2021,30177.0,,Population,Census PEP Vintage 2025
+54051,West Virginia,Marshall,2022,29687.0,,Population,Census PEP Vintage 2025
+54051,West Virginia,Marshall,2023,29483.0,,Population,Census PEP Vintage 2025
+54051,West Virginia,Marshall,2024,29284.0,,Population,Census PEP Vintage 2025
+54051,West Virginia,Marshall,2025,29159.0,,Population,Census PEP Vintage 2025
+54051,West Virginia,Marshall,2023,,51416.0,Per capita personal income,BEA via FRED
+54051,West Virginia,Marshall,2024,,53299.0,Per capita personal income,BEA via FRED
+54053,West Virginia,Mason,2000,,,Population,Census decennial
+54053,West Virginia,Mason,2010,,,Population,Census decennial
+54053,West Virginia,Mason,2020,25403.0,,Population,Census PEP Vintage 2025
+54053,West Virginia,Mason,2021,25274.0,,Population,Census PEP Vintage 2025
+54053,West Virginia,Mason,2022,24930.0,,Population,Census PEP Vintage 2025
+54053,West Virginia,Mason,2023,24788.0,,Population,Census PEP Vintage 2025
+54053,West Virginia,Mason,2024,24765.0,,Population,Census PEP Vintage 2025
+54053,West Virginia,Mason,2025,24707.0,,Population,Census PEP Vintage 2025
+54053,West Virginia,Mason,2023,,44420.0,Per capita personal income,BEA via FRED
+54053,West Virginia,Mason,2024,,47843.0,Per capita personal income,BEA via FRED
+54055,West Virginia,Mercer,2000,26310.0,,Population,Census decennial
+54055,West Virginia,Mercer,2010,24967.0,,Population,Census decennial
+54055,West Virginia,Mercer,2020,59528.0,,Population,Census PEP Vintage 2025
+54055,West Virginia,Mercer,2021,59184.0,,Population,Census PEP Vintage 2025
+54055,West Virginia,Mercer,2022,58617.0,,Population,Census PEP Vintage 2025
+54055,West Virginia,Mercer,2023,58090.0,,Population,Census PEP Vintage 2025
+54055,West Virginia,Mercer,2024,57552.0,,Population,Census PEP Vintage 2025
+54055,West Virginia,Mercer,2025,57503.0,,Population,Census PEP Vintage 2025
+54055,West Virginia,Mercer,2023,,48452.0,Per capita personal income,BEA via FRED
+54055,West Virginia,Mercer,2024,,50206.0,Per capita personal income,BEA via FRED
+54057,West Virginia,Mineral,2000,28212.0,,Population,Census decennial
+54057,West Virginia,Mineral,2010,28196.0,,Population,Census decennial
+54057,West Virginia,Mineral,2020,26892.0,,Population,Census PEP Vintage 2025
+54057,West Virginia,Mineral,2021,26911.0,,Population,Census PEP Vintage 2025
+54057,West Virginia,Mineral,2022,26871.0,,Population,Census PEP Vintage 2025
+54057,West Virginia,Mineral,2023,26801.0,,Population,Census PEP Vintage 2025
+54057,West Virginia,Mineral,2024,26751.0,,Population,Census PEP Vintage 2025
+54057,West Virginia,Mineral,2025,26792.0,,Population,Census PEP Vintage 2025
+54057,West Virginia,Mineral,2023,,49795.0,Per capita personal income,BEA via FRED
+54057,West Virginia,Mineral,2024,,53207.0,Per capita personal income,BEA via FRED
+54059,West Virginia,Mingo,2000,26128.0,,Population,Census decennial
+54059,West Virginia,Mingo,2010,26839.0,,Population,Census decennial
+54059,West Virginia,Mingo,2020,23489.0,,Population,Census PEP Vintage 2025
+54059,West Virginia,Mingo,2021,23062.0,,Population,Census PEP Vintage 2025
+54059,West Virginia,Mingo,2022,22433.0,,Population,Census PEP Vintage 2025
+54059,West Virginia,Mingo,2023,21996.0,,Population,Census PEP Vintage 2025
+54059,West Virginia,Mingo,2024,21680.0,,Population,Census PEP Vintage 2025
+54059,West Virginia,Mingo,2025,21455.0,,Population,Census PEP Vintage 2025
+54059,West Virginia,Mingo,2023,,41131.0,Per capita personal income,BEA via FRED
+54059,West Virginia,Mingo,2024,,43445.0,Per capita personal income,BEA via FRED
+54061,West Virginia,Monongalia,2000,81014.0,,Population,Census decennial
+54061,West Virginia,Monongalia,2010,96581.0,,Population,Census decennial
+54061,West Virginia,Monongalia,2020,105917.0,,Population,Census PEP Vintage 2025
+54061,West Virginia,Monongalia,2021,106528.0,,Population,Census PEP Vintage 2025
+54061,West Virginia,Monongalia,2022,106809.0,,Population,Census PEP Vintage 2025
+54061,West Virginia,Monongalia,2023,107450.0,,Population,Census PEP Vintage 2025
+54061,West Virginia,Monongalia,2024,107931.0,,Population,Census PEP Vintage 2025
+54061,West Virginia,Monongalia,2025,107991.0,,Population,Census PEP Vintage 2025
+54061,West Virginia,Monongalia,2023,,58800.0,Per capita personal income,BEA via FRED
+54061,West Virginia,Monongalia,2024,,60600.0,Per capita personal income,BEA via FRED
+54063,West Virginia,Monroe,2000,14723.0,,Population,Census decennial
+54063,West Virginia,Monroe,2010,13502.0,,Population,Census decennial
+54063,West Virginia,Monroe,2020,12388.0,,Population,Census PEP Vintage 2025
+54063,West Virginia,Monroe,2021,12398.0,,Population,Census PEP Vintage 2025
+54063,West Virginia,Monroe,2022,12312.0,,Population,Census PEP Vintage 2025
+54063,West Virginia,Monroe,2023,12396.0,,Population,Census PEP Vintage 2025
+54063,West Virginia,Monroe,2024,12516.0,,Population,Census PEP Vintage 2025
+54063,West Virginia,Monroe,2025,12491.0,,Population,Census PEP Vintage 2025
+54063,West Virginia,Monroe,2023,,42820.0,Per capita personal income,BEA via FRED
+54063,West Virginia,Monroe,2024,,44579.0,Per capita personal income,BEA via FRED
+54065,West Virginia,Morgan,2000,12275.0,,Population,Census decennial
+54065,West Virginia,Morgan,2010,17541.0,,Population,Census decennial
+54065,West Virginia,Morgan,2020,17086.0,,Population,Census PEP Vintage 2025
+54065,West Virginia,Morgan,2021,17302.0,,Population,Census PEP Vintage 2025
+54065,West Virginia,Morgan,2022,17372.0,,Population,Census PEP Vintage 2025
+54065,West Virginia,Morgan,2023,17610.0,,Population,Census PEP Vintage 2025
+54065,West Virginia,Morgan,2024,17806.0,,Population,Census PEP Vintage 2025
+54065,West Virginia,Morgan,2025,18027.0,,Population,Census PEP Vintage 2025
+54065,West Virginia,Morgan,2023,,46774.0,Per capita personal income,BEA via FRED
+54065,West Virginia,Morgan,2024,,49283.0,Per capita personal income,BEA via FRED
+54067,West Virginia,Nicholas,2000,26332.0,,Population,Census decennial
+54067,West Virginia,Nicholas,2010,26845.0,,Population,Census decennial
+54067,West Virginia,Nicholas,2020,24559.0,,Population,Census PEP Vintage 2025
+54067,West Virginia,Nicholas,2021,24439.0,,Population,Census PEP Vintage 2025
+54067,West Virginia,Nicholas,2022,24257.0,,Population,Census PEP Vintage 2025
+54067,West Virginia,Nicholas,2023,24104.0,,Population,Census PEP Vintage 2025
+54067,West Virginia,Nicholas,2024,23955.0,,Population,Census PEP Vintage 2025
+54067,West Virginia,Nicholas,2025,23848.0,,Population,Census PEP Vintage 2025
+54067,West Virginia,Nicholas,2023,,44561.0,Per capita personal income,BEA via FRED
+54067,West Virginia,Nicholas,2024,,45763.0,Per capita personal income,BEA via FRED
+54069,West Virginia,Ohio,2000,47427.0,,Population,Census decennial
+54069,West Virginia,Ohio,2010,44443.0,,Population,Census decennial
+54069,West Virginia,Ohio,2020,42347.0,,Population,Census PEP Vintage 2025
+54069,West Virginia,Ohio,2021,41864.0,,Population,Census PEP Vintage 2025
+54069,West Virginia,Ohio,2022,41503.0,,Population,Census PEP Vintage 2025
+54069,West Virginia,Ohio,2023,41204.0,,Population,Census PEP Vintage 2025
+54069,West Virginia,Ohio,2024,40969.0,,Population,Census PEP Vintage 2025
+54069,West Virginia,Ohio,2025,40496.0,,Population,Census PEP Vintage 2025
+54069,West Virginia,Ohio,2023,,67571.0,Per capita personal income,BEA via FRED
+54069,West Virginia,Ohio,2024,,70326.0,Per capita personal income,BEA via FRED
+54071,West Virginia,Pendleton,2000,7392.0,,Population,Census decennial
+54071,West Virginia,Pendleton,2010,7675.0,,Population,Census decennial
+54071,West Virginia,Pendleton,2020,6129.0,,Population,Census PEP Vintage 2025
+54071,West Virginia,Pendleton,2021,6092.0,,Population,Census PEP Vintage 2025
+54071,West Virginia,Pendleton,2022,6048.0,,Population,Census PEP Vintage 2025
+54071,West Virginia,Pendleton,2023,5995.0,,Population,Census PEP Vintage 2025
+54071,West Virginia,Pendleton,2024,5906.0,,Population,Census PEP Vintage 2025
+54071,West Virginia,Pendleton,2025,5826.0,,Population,Census PEP Vintage 2025
+54071,West Virginia,Pendleton,2023,,53199.0,Per capita personal income,BEA via FRED
+54071,West Virginia,Pendleton,2024,,57145.0,Per capita personal income,BEA via FRED
+54073,West Virginia,Pleasants,2000,7604.0,,Population,Census decennial
+54073,West Virginia,Pleasants,2010,7597.0,,Population,Census decennial
+54073,West Virginia,Pleasants,2020,7655.0,,Population,Census PEP Vintage 2025
+54073,West Virginia,Pleasants,2021,7613.0,,Population,Census PEP Vintage 2025
+54073,West Virginia,Pleasants,2022,7568.0,,Population,Census PEP Vintage 2025
+54073,West Virginia,Pleasants,2023,7429.0,,Population,Census PEP Vintage 2025
+54073,West Virginia,Pleasants,2024,7352.0,,Population,Census PEP Vintage 2025
+54073,West Virginia,Pleasants,2025,7338.0,,Population,Census PEP Vintage 2025
+54073,West Virginia,Pleasants,2023,,54181.0,Per capita personal income,BEA via FRED
+54073,West Virginia,Pleasants,2024,,55197.0,Per capita personal income,BEA via FRED
+54075,West Virginia,Pocahontas,2000,9002.0,,Population,Census decennial
+54075,West Virginia,Pocahontas,2010,8719.0,,Population,Census decennial
+54075,West Virginia,Pocahontas,2020,7861.0,,Population,Census PEP Vintage 2025
+54075,West Virginia,Pocahontas,2021,7886.0,,Population,Census PEP Vintage 2025
+54075,West Virginia,Pocahontas,2022,7773.0,,Population,Census PEP Vintage 2025
+54075,West Virginia,Pocahontas,2023,7727.0,,Population,Census PEP Vintage 2025
+54075,West Virginia,Pocahontas,2024,7640.0,,Population,Census PEP Vintage 2025
+54075,West Virginia,Pocahontas,2025,7602.0,,Population,Census PEP Vintage 2025
+54075,West Virginia,Pocahontas,2023,,54318.0,Per capita personal income,BEA via FRED
+54075,West Virginia,Pocahontas,2024,,55868.0,Per capita personal income,BEA via FRED
+54077,West Virginia,Preston,2000,29541.0,,Population,Census decennial
+54077,West Virginia,Preston,2010,32789.0,,Population,Census decennial
+54077,West Virginia,Preston,2020,34201.0,,Population,Census PEP Vintage 2025
+54077,West Virginia,Preston,2021,34328.0,,Population,Census PEP Vintage 2025
+54077,West Virginia,Preston,2022,34227.0,,Population,Census PEP Vintage 2025
+54077,West Virginia,Preston,2023,34059.0,,Population,Census PEP Vintage 2025
+54077,West Virginia,Preston,2024,33987.0,,Population,Census PEP Vintage 2025
+54077,West Virginia,Preston,2025,34004.0,,Population,Census PEP Vintage 2025
+54077,West Virginia,Preston,2023,,44248.0,Per capita personal income,BEA via FRED
+54077,West Virginia,Preston,2024,,46260.0,Per capita personal income,BEA via FRED
+54079,West Virginia,Putnam,2000,51589.0,,Population,Census decennial
+54079,West Virginia,Putnam,2010,55186.0,,Population,Census decennial
+54079,West Virginia,Putnam,2020,57441.0,,Population,Census PEP Vintage 2025
+54079,West Virginia,Putnam,2021,57378.0,,Population,Census PEP Vintage 2025
+54079,West Virginia,Putnam,2022,57073.0,,Population,Census PEP Vintage 2025
+54079,West Virginia,Putnam,2023,56900.0,,Population,Census PEP Vintage 2025
+54079,West Virginia,Putnam,2024,56922.0,,Population,Census PEP Vintage 2025
+54079,West Virginia,Putnam,2025,56885.0,,Population,Census PEP Vintage 2025
+54079,West Virginia,Putnam,2023,,58052.0,Per capita personal income,BEA via FRED
+54079,West Virginia,Putnam,2024,,61402.0,Per capita personal income,BEA via FRED
+54081,West Virginia,Raleigh,2000,79599.0,,Population,Census decennial
+54081,West Virginia,Raleigh,2010,78599.0,,Population,Census decennial
+54081,West Virginia,Raleigh,2020,74404.0,,Population,Census PEP Vintage 2025
+54081,West Virginia,Raleigh,2021,73817.0,,Population,Census PEP Vintage 2025
+54081,West Virginia,Raleigh,2022,72858.0,,Population,Census PEP Vintage 2025
+54081,West Virginia,Raleigh,2023,72504.0,,Population,Census PEP Vintage 2025
+54081,West Virginia,Raleigh,2024,72185.0,,Population,Census PEP Vintage 2025
+54081,West Virginia,Raleigh,2025,71775.0,,Population,Census PEP Vintage 2025
+54081,West Virginia,Raleigh,2023,,53204.0,Per capita personal income,BEA via FRED
+54081,West Virginia,Raleigh,2024,,55961.0,Per capita personal income,BEA via FRED
+54083,West Virginia,Randolph,2000,28766.0,,Population,Census decennial
+54083,West Virginia,Randolph,2010,29137.0,,Population,Census decennial
+54083,West Virginia,Randolph,2020,27893.0,,Population,Census PEP Vintage 2025
+54083,West Virginia,Randolph,2021,27904.0,,Population,Census PEP Vintage 2025
+54083,West Virginia,Randolph,2022,27556.0,,Population,Census PEP Vintage 2025
+54083,West Virginia,Randolph,2023,27373.0,,Population,Census PEP Vintage 2025
+54083,West Virginia,Randolph,2024,27130.0,,Population,Census PEP Vintage 2025
+54083,West Virginia,Randolph,2025,26882.0,,Population,Census PEP Vintage 2025
+54083,West Virginia,Randolph,2023,,48692.0,Per capita personal income,BEA via FRED
+54083,West Virginia,Randolph,2024,,50300.0,Per capita personal income,BEA via FRED
+54085,West Virginia,Ritchie,2000,10477.0,,Population,Census decennial
+54085,West Virginia,Ritchie,2010,10449.0,,Population,Census decennial
+54085,West Virginia,Ritchie,2020,8424.0,,Population,Census PEP Vintage 2025
+54085,West Virginia,Ritchie,2021,8413.0,,Population,Census PEP Vintage 2025
+54085,West Virginia,Ritchie,2022,8238.0,,Population,Census PEP Vintage 2025
+54085,West Virginia,Ritchie,2023,8161.0,,Population,Census PEP Vintage 2025
+54085,West Virginia,Ritchie,2024,8122.0,,Population,Census PEP Vintage 2025
+54085,West Virginia,Ritchie,2025,8034.0,,Population,Census PEP Vintage 2025
+54085,West Virginia,Ritchie,2023,,56202.0,Per capita personal income,BEA via FRED
+54085,West Virginia,Ritchie,2024,,57879.0,Per capita personal income,BEA via FRED
+54087,West Virginia,Roane,2000,15209.0,,Population,Census decennial
+54087,West Virginia,Roane,2010,15031.0,,Population,Census decennial
+54087,West Virginia,Roane,2020,13988.0,,Population,Census PEP Vintage 2025
+54087,West Virginia,Roane,2021,13939.0,,Population,Census PEP Vintage 2025
+54087,West Virginia,Roane,2022,13798.0,,Population,Census PEP Vintage 2025
+54087,West Virginia,Roane,2023,13675.0,,Population,Census PEP Vintage 2025
+54087,West Virginia,Roane,2024,13508.0,,Population,Census PEP Vintage 2025
+54087,West Virginia,Roane,2025,13317.0,,Population,Census PEP Vintage 2025
+54087,West Virginia,Roane,2023,,41650.0,Per capita personal income,BEA via FRED
+54087,West Virginia,Roane,2024,,43640.0,Per capita personal income,BEA via FRED
+54089,West Virginia,Summers,2000,13296.0,,Population,Census decennial
+54089,West Virginia,Summers,2010,13110.0,,Population,Census decennial
+54089,West Virginia,Summers,2020,11931.0,,Population,Census PEP Vintage 2025
+54089,West Virginia,Summers,2021,11865.0,,Population,Census PEP Vintage 2025
+54089,West Virginia,Summers,2022,11693.0,,Population,Census PEP Vintage 2025
+54089,West Virginia,Summers,2023,11595.0,,Population,Census PEP Vintage 2025
+54089,West Virginia,Summers,2024,11584.0,,Population,Census PEP Vintage 2025
+54089,West Virginia,Summers,2025,11532.0,,Population,Census PEP Vintage 2025
+54089,West Virginia,Summers,2023,,46368.0,Per capita personal income,BEA via FRED
+54089,West Virginia,Summers,2024,,46401.0,Per capita personal income,BEA via FRED
+54091,West Virginia,Taylor,2000,16076.0,,Population,Census decennial
+54091,West Virginia,Taylor,2010,16895.0,,Population,Census decennial
+54091,West Virginia,Taylor,2020,16690.0,,Population,Census PEP Vintage 2025
+54091,West Virginia,Taylor,2021,16534.0,,Population,Census PEP Vintage 2025
+54091,West Virginia,Taylor,2022,16383.0,,Population,Census PEP Vintage 2025
+54091,West Virginia,Taylor,2023,16417.0,,Population,Census PEP Vintage 2025
+54091,West Virginia,Taylor,2024,16486.0,,Population,Census PEP Vintage 2025
+54091,West Virginia,Taylor,2025,16287.0,,Population,Census PEP Vintage 2025
+54091,West Virginia,Taylor,2023,,52663.0,Per capita personal income,BEA via FRED
+54091,West Virginia,Taylor,2024,,54335.0,Per capita personal income,BEA via FRED
+54093,West Virginia,Tucker,2000,7309.0,,Population,Census decennial
+54093,West Virginia,Tucker,2010,7169.0,,Population,Census decennial
+54093,West Virginia,Tucker,2020,6753.0,,Population,Census PEP Vintage 2025
+54093,West Virginia,Tucker,2021,6701.0,,Population,Census PEP Vintage 2025
+54093,West Virginia,Tucker,2022,6627.0,,Population,Census PEP Vintage 2025
+54093,West Virginia,Tucker,2023,6606.0,,Population,Census PEP Vintage 2025
+54093,West Virginia,Tucker,2024,6549.0,,Population,Census PEP Vintage 2025
+54093,West Virginia,Tucker,2025,6540.0,,Population,Census PEP Vintage 2025
+54093,West Virginia,Tucker,2023,,59250.0,Per capita personal income,BEA via FRED
+54093,West Virginia,Tucker,2024,,62559.0,Per capita personal income,BEA via FRED
+54095,West Virginia,Tyler,2000,9386.0,,Population,Census decennial
+54095,West Virginia,Tyler,2010,9208.0,,Population,Census decennial
+54095,West Virginia,Tyler,2020,8294.0,,Population,Census PEP Vintage 2025
+54095,West Virginia,Tyler,2021,8211.0,,Population,Census PEP Vintage 2025
+54095,West Virginia,Tyler,2022,8082.0,,Population,Census PEP Vintage 2025
+54095,West Virginia,Tyler,2023,7909.0,,Population,Census PEP Vintage 2025
+54095,West Virginia,Tyler,2024,7896.0,,Population,Census PEP Vintage 2025
+54095,West Virginia,Tyler,2025,7881.0,,Population,Census PEP Vintage 2025
+54095,West Virginia,Tyler,2023,,60852.0,Per capita personal income,BEA via FRED
+54095,West Virginia,Tyler,2024,,63194.0,Per capita personal income,BEA via FRED
+54097,West Virginia,Upshur,2000,23816.0,,Population,Census decennial
+54097,West Virginia,Upshur,2010,24174.0,,Population,Census decennial
+54097,West Virginia,Upshur,2020,23820.0,,Population,Census PEP Vintage 2025
+54097,West Virginia,Upshur,2021,23813.0,,Population,Census PEP Vintage 2025
+54097,West Virginia,Upshur,2022,23717.0,,Population,Census PEP Vintage 2025
+54097,West Virginia,Upshur,2023,23570.0,,Population,Census PEP Vintage 2025
+54097,West Virginia,Upshur,2024,23658.0,,Population,Census PEP Vintage 2025
+54097,West Virginia,Upshur,2025,23758.0,,Population,Census PEP Vintage 2025
+54097,West Virginia,Upshur,2023,,46034.0,Per capita personal income,BEA via FRED
+54097,West Virginia,Upshur,2024,,48437.0,Per capita personal income,BEA via FRED
+54099,West Virginia,Wayne,2000,42903.0,,Population,Census decennial
+54099,West Virginia,Wayne,2010,42119.0,,Population,Census decennial
+54099,West Virginia,Wayne,2020,38873.0,,Population,Census PEP Vintage 2025
+54099,West Virginia,Wayne,2021,38576.0,,Population,Census PEP Vintage 2025
+54099,West Virginia,Wayne,2022,38025.0,,Population,Census PEP Vintage 2025
+54099,West Virginia,Wayne,2023,37743.0,,Population,Census PEP Vintage 2025
+54099,West Virginia,Wayne,2024,37503.0,,Population,Census PEP Vintage 2025
+54099,West Virginia,Wayne,2025,37309.0,,Population,Census PEP Vintage 2025
+54099,West Virginia,Wayne,2023,,44689.0,Per capita personal income,BEA via FRED
+54099,West Virginia,Wayne,2024,,47014.0,Per capita personal income,BEA via FRED
+54101,West Virginia,Webster,2000,10833.0,,Population,Census decennial
+54101,West Virginia,Webster,2010,9360.0,,Population,Census decennial
+54101,West Virginia,Webster,2020,8354.0,,Population,Census PEP Vintage 2025
+54101,West Virginia,Webster,2021,8273.0,,Population,Census PEP Vintage 2025
+54101,West Virginia,Webster,2022,8127.0,,Population,Census PEP Vintage 2025
+54101,West Virginia,Webster,2023,8032.0,,Population,Census PEP Vintage 2025
+54101,West Virginia,Webster,2024,7933.0,,Population,Census PEP Vintage 2025
+54101,West Virginia,Webster,2025,7760.0,,Population,Census PEP Vintage 2025
+54101,West Virginia,Webster,2023,,34842.0,Per capita personal income,BEA via FRED
+54101,West Virginia,Webster,2024,,35039.0,Per capita personal income,BEA via FRED
+54103,West Virginia,Wetzel,2000,17991.0,,Population,Census decennial
+54103,West Virginia,Wetzel,2010,16929.0,,Population,Census decennial
+54103,West Virginia,Wetzel,2020,14404.0,,Population,Census PEP Vintage 2025
+54103,West Virginia,Wetzel,2021,14206.0,,Population,Census PEP Vintage 2025
+54103,West Virginia,Wetzel,2022,14012.0,,Population,Census PEP Vintage 2025
+54103,West Virginia,Wetzel,2023,13993.0,,Population,Census PEP Vintage 2025
+54103,West Virginia,Wetzel,2024,13812.0,,Population,Census PEP Vintage 2025
+54103,West Virginia,Wetzel,2025,13734.0,,Population,Census PEP Vintage 2025
+54103,West Virginia,Wetzel,2023,,47405.0,Per capita personal income,BEA via FRED
+54103,West Virginia,Wetzel,2024,,49748.0,Per capita personal income,BEA via FRED
+54105,West Virginia,Wirt,2000,5873.0,,Population,Census decennial
+54105,West Virginia,Wirt,2010,5717.0,,Population,Census decennial
+54105,West Virginia,Wirt,2020,5187.0,,Population,Census PEP Vintage 2025
+54105,West Virginia,Wirt,2021,5067.0,,Population,Census PEP Vintage 2025
+54105,West Virginia,Wirt,2022,5097.0,,Population,Census PEP Vintage 2025
+54105,West Virginia,Wirt,2023,4966.0,,Population,Census PEP Vintage 2025
+54105,West Virginia,Wirt,2024,4908.0,,Population,Census PEP Vintage 2025
+54105,West Virginia,Wirt,2025,4879.0,,Population,Census PEP Vintage 2025
+54105,West Virginia,Wirt,2023,,44856.0,Per capita personal income,BEA via FRED
+54105,West Virginia,Wirt,2024,,46669.0,Per capita personal income,BEA via FRED
+54107,West Virginia,Wood,2000,86915.0,,Population,Census decennial
+54107,West Virginia,Wood,2010,87986.0,,Population,Census decennial
+54107,West Virginia,Wood,2020,84153.0,,Population,Census PEP Vintage 2025
+54107,West Virginia,Wood,2021,83841.0,,Population,Census PEP Vintage 2025
+54107,West Virginia,Wood,2022,83375.0,,Population,Census PEP Vintage 2025
+54107,West Virginia,Wood,2023,83015.0,,Population,Census PEP Vintage 2025
+54107,West Virginia,Wood,2024,82650.0,,Population,Census PEP Vintage 2025
+54107,West Virginia,Wood,2025,82385.0,,Population,Census PEP Vintage 2025
+54107,West Virginia,Wood,2023,,58862.0,Per capita personal income,BEA via FRED
+54107,West Virginia,Wood,2024,,60570.0,Per capita personal income,BEA via FRED
+54109,West Virginia,Wyoming,2000,28990.0,,Population,Census decennial
+54109,West Virginia,Wyoming,2010,25708.0,,Population,Census decennial
+54109,West Virginia,Wyoming,2020,21322.0,,Population,Census PEP Vintage 2025
+54109,West Virginia,Wyoming,2021,21035.0,,Population,Census PEP Vintage 2025
+54109,West Virginia,Wyoming,2022,20573.0,,Population,Census PEP Vintage 2025
+54109,West Virginia,Wyoming,2023,20279.0,,Population,Census PEP Vintage 2025
+54109,West Virginia,Wyoming,2024,20007.0,,Population,Census PEP Vintage 2025
+54109,West Virginia,Wyoming,2025,19801.0,,Population,Census PEP Vintage 2025
+54109,West Virginia,Wyoming,2023,,38591.0,Per capita personal income,BEA via FRED
+54109,West Virginia,Wyoming,2024,,40314.0,Per capita personal income,BEA via FRED
